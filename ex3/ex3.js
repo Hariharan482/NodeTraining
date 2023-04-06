@@ -6,7 +6,7 @@ var rn = require('random-number');
 http.createServer(async (req, res, err) => {
     let randomColors=[];  
     //reading file
-    await fs.readFile('color_ palett.json', (err, data) => {
+    await fs.readFile('color_ palette.json', (err, data) => {
         if (err) {
             console.log("no such file");
         }
