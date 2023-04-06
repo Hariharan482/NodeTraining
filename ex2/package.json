@@ -1,15 +1,16 @@
 {
-  "name": "node-ex1",
+  "name": "ex2",
   "version": "1.0.0",
-  "description": "generating random 5 colors",
-  "main": "index.js",
+  "description": "",
+  "main": "ex2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "hariharan",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "random-number": "^0.0.9"
+    "nodemon": "^2.0.22"
   }
 }
