@@ -12,6 +12,14 @@ const logger=createLogger({
             )
         }),
         new transports.File({
+            level : 'warn',
+            filename : 'warn.log',
+            format : format.combine(
+                format.timestamp({ format : "MM-DD-YYYY HH:mm:ss"}),
+                format.printf(info=> `${[info.timestamp]} - ${info.level} :  ${info.message}` )
+            )
+        }),
+        new transports.File({
             level : 'info',
             filename : 'info.log',
             format : format.combine(
