@@ -1,0 +1,174 @@
+04-07-2023 23:33:37 - info :   /buddies/223 - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:33:37 - info :   /buddies/223 - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:37 - info :   /buddies/223 - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:37 - warn :   200 - id not found - /buddies/223 - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:43 - info :   /buddies/223jn - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:43 - warn :   400 - invalid params - /buddies/223jn - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:48 - info :   /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-07-2023 23:35:48 - info :   /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:25:08 - info :   /buddies/23sd - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:25:08 - warn :   400 - invalid params - /buddies/23sd - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:25:38 - info :   /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:25:38 - warn :   200 - id not found - /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:26:04 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 00:26:04 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 00:26:16 - info :   /buddies/233 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:26:16 - warn :   200 - id not found - /buddies/233 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:26:19 - info :   /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-08-2023 00:26:19 - info :   /buddies/234 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:22:26 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:22:26 - warn :   500 - ReferenceError: res is not defined - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:22:42 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:22:42 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:23:00 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:23:00 - warn :   404 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:01 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:01 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:39 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:39 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:51 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:29:51 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:30:45 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:30:46 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:30:55 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:30:55 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:31:06 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:31:06 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:31:46 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:31:46 - warn :   404 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:04 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:04 - warn :   500 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:13 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:13 - warn :   404 - id not found - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:40 - info :   /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:32:40 - warn :   500 - Error: ENOENT: no such file or directory, open './cdw_ace23_buddie.json' - /buddies/231 - DELETE - ::ffff:127.0.0.1
+04-08-2023 07:38:51 - info :   /buddies/231 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:38:51 - warn :   404 - invalid req obj or id - /buddies/231 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:38:59 - info :   /buddies/234 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:38:59 - warn :   404 - invalid req obj or id - /buddies/234 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:39:16 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:16 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:28 - info :   /buddies/234 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:39:28 - info :   /buddies/234 - PUT - ::ffff:127.0.0.1
+04-08-2023 07:39:46 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:46 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:50 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:50 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:56 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:39:56 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:40:02 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:40:02 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:43 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:43 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:48 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:48 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:54 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:41:54 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:34 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:34 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:40 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:40 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:46 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 07:43:46 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 18:38:20 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:38:20 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:38:46 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:38:46 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:40:00 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:40:00 - warn :   404 - invalid req obj or id - /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:40:06 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:40:06 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:41:13 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 18:41:13 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:07:49 - info :   /buddies/ - PUT - ::ffff:127.0.0.1
+04-08-2023 19:07:49 - warn :   400 - body or query string shouldn't be empty - /buddies/ - PUT - ::ffff:127.0.0.1
+04-08-2023 19:10:47 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:10:47 - warn :   200 - body id must match - /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:07 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:07 - warn :   404 - body id must match - /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:12 - info :   /buddies/ - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:12 - warn :   400 - body or query string shouldn't be empty - /buddies/ - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:17 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:17 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:49 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:11:49 - warn :   404 - body id must match - /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:12:02 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:12:02 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:13:37 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:13:37 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:21:05 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:21:05 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:21:27 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 19:21:27 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:07:47 - info :   /buddies/241 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:07:47 - warn :   404 - invalid req obj or id - /buddies/241 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:07:55 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:07:55 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:08:05 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:08:05 - warn :   404 - body id must match - /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:10:57 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:10:57 - warn :   200 - ReferenceError: i is not defined - /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:11:09 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:11:09 - warn :   200 - ReferenceError: element is not defined - /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:12:43 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:12:43 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:13:00 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:13:00 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:14:14 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:14:14 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:13 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:13 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:26 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:26 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:45 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:15:45 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:16:16 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:16:16 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:16:47 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:16:47 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:17:24 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:17:24 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:27:14 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:27:14 - info :   /buddies/239 - GET - ::ffff:127.0.0.1
+04-08-2023 20:33:51 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:33:51 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:34:18 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:34:18 - warn :   404 - body id must match - /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:35:42 - info :   /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:35:42 - warn :   404 - body id must match - /buddies/240 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:36:00 - info :   /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 20:36:00 - warn :   404 - body id must match - /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:38:09 - info :   /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:38:09 - warn :   404 - body id must match - /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:38:28 - info :   /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:38:28 - warn :   404 - body id & params id must match - /buddies/236 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:38:35 - info :   /buddies/236 - GET - ::ffff:127.0.0.1
+04-08-2023 21:38:35 - info :   /buddies/236 - GET - ::ffff:127.0.0.1
+04-08-2023 21:38:41 - info :   /buddies/ - GET - ::ffff:127.0.0.1
+04-08-2023 21:38:41 - info :   /buddies/ - GET - ::ffff:127.0.0.1
+04-08-2023 21:38:51 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:38:51 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:39:08 - info :   /buddies/241 - DELETE - ::ffff:127.0.0.1
+04-08-2023 21:39:08 - warn :   404 - id not found - /buddies/241 - DELETE - ::ffff:127.0.0.1
+04-08-2023 21:39:12 - info :   /buddies/239 - DELETE - ::ffff:127.0.0.1
+04-08-2023 21:39:12 - info :   /buddies/239 - DELETE - ::ffff:127.0.0.1
+04-08-2023 21:39:43 - info :   /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:39:43 - warn :   404 - invalid req obj or id - /buddies/239 - PUT - ::ffff:127.0.0.1
+04-08-2023 21:39:51 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:39:51 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:39:54 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:39:54 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:05 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:05 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:16 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:16 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:19 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:19 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:26 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:26 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:31 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:31 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:52 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:40:52 - warn :   404 - invalid req obj or id - /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:41:06 - info :   /buddies/ - POST - ::ffff:127.0.0.1
+04-08-2023 21:41:06 - info :   /buddies/ - POST - ::ffff:127.0.0.1
