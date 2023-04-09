@@ -1,7 +1,6 @@
 const { response } = require('express');
 let { fileWrite , fileRead }=require('../utils/fileUtils');
 
-//validating json data present in request object
 function validate(data){
     if(data.id==null || !(/^[0-9]{1,10}$/).test(data.id) ){
         return false;
@@ -21,14 +20,11 @@ function validate(data){
 
     return true;
 }
-//checking if id is present
  function validateId(id){
     let dataArr= fileRead();
     return dataArr.some(element=>element.id==id)
 }
-// add buddy service 
  function add(data,id){
-    //checking if id and json obj is eligible to use 
     if(validate(data) && !validateId(id)){
         let fileData= fileRead();
         fileData.push(data);
@@ -41,9 +37,7 @@ function validate(data){
         throw "invalid req obj or id";
     }
 }
-//del buddy service 
  function del(id){
-    //checking if id is present or not
     if(validateId(id)){
         let dataArr= fileRead();
         dataArr=dataArr.filter(element=>element.id!=id);
@@ -56,9 +50,8 @@ function validate(data){
         throw "id not found";
     }
 }
-// getById buddy service 
+
  function getById(id){
-    //checking if id is present or not
     if(validateId(id)){
         let dataArr= fileRead();
         let index=dataArr.findIndex(element=>element.id==id);
@@ -70,18 +63,14 @@ function validate(data){
         throw "id not found";
     }
 }
-//getAll buddy service 
 function getAll(){
     let filedata= fileRead();
     response.status(200);
     return filedata;
 }
-//update buddy service
  function update(data,id){
-    //validating json obj and params id
     if(validate(data) && validateId(id)){
         dataArr=fileRead();
-        //finding buddy
         dataArr.forEach((element,index) => {
             if(element.id == id ) {
                 if(data.id == id){
@@ -103,7 +92,7 @@ function getAll(){
         throw "invalid req obj or id";
     }
 }
-//exporting module
+
 module.exports={
     validate,add,getById,getAll,getById,update,del
 }
